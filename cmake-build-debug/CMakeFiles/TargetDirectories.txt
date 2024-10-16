@@ -1,0 +1,3 @@
+C:/Users/9893/CLionProjects/testreverse/cmake-build-debug/CMakeFiles/testreverse.dir
+C:/Users/9893/CLionProjects/testreverse/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/9893/CLionProjects/testreverse/cmake-build-debug/CMakeFiles/rebuild_cache.dir
